@@ -1,0 +1,408 @@
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 03:46:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 03:55:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 03:55:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:01:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:07:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:07:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:10:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:10:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:21:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:27:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:27:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:28:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:29:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:31:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:32:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:33:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/slide.php on line 203
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/slide.php on line 205
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 195
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 196
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 229
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 230
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 263
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 264
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 297
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 298
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 5
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mint'@'localhost' (using password: YES) in /home/mintbanq/public_html/dbCon.php on line 7
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mintbanq/public_html/index.php on line 331
+[11-Jan-2019 04:33:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mintbanq/public_html/index.php on line 332
